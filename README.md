@@ -9,6 +9,7 @@
 ## Principais conhecimentos
 
 **Linguagens de programação**
+
 [![linguagens programacao](https://skillicons.dev/icons?i=java,cs,js,php)](https://skillicons.dev)
 
 
