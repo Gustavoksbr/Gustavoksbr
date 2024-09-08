@@ -2,7 +2,7 @@
 
 
 - 🎓 Cursando ADS na Fatec de Presidente Prudente
-- 🌱 Atualmente focado em Java
+- ☕ Atualmente focado em Java
 - ♟️ Entusiasta em xadrez
 
 
