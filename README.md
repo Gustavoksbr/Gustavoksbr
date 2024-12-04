@@ -2,7 +2,7 @@
 
 
 - 🎓 Cursando ADS na Fatec de Presidente Prudente
-- ☕ Atualmente focado em Java
+- ✏️ Atualmente estudando C# e AspNet Core com o curso "Randstad - Backend com .NET" da Digital Inovation One
 - ♟️ Entusiasta em xadrez
 
 
