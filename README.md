@@ -4,6 +4,7 @@
 - 🎓 Cursando ADS na Fatec de Presidente Prudente
 - ✏️ Atualmente estudando Spring e Angular
 - ♟️ Entusiasta em xadrez
+- 💼 Acesse meu portfólio [aqui](https://gustavoksbr-portfolio-maker.vercel.app/portfolios/gustavoksbr)
 
 
 ## Principais conhecimentos
